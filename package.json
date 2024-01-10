@@ -10,6 +10,12 @@
     "webpack-cli": "^5.1.4"
   },
   "dependencies": {
-    "normalize.css": "^8.0.1"
+    "autoprefixer": "^10.4.16",
+    "css-loader": "^6.8.1",
+    "normalize.css": "^8.0.1",
+    "postcss-loader": "^7.3.4",
+    "postcss-nested": "^6.0.1",
+    "postcss-simple-vars": "^7.0.1",
+    "style-loader": "^3.3.3"
   }
 }
